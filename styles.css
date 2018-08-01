@@ -13,7 +13,6 @@ body { margin: 0; }
 }
 
 .releases select {
-  background-color: red;
   margin-left: auto;
   font-size: 1.25rem;
 }
